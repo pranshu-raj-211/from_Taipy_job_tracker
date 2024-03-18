@@ -1,0 +1,30 @@
+1710010089256	geckodriver	INFO	Listening on 127.0.0.1:33239
+1710010089836	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileR9NPCs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710010090891	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1710010091198	Marionette	INFO	Listening on port 36485
+Read port: 36485
+1710010091531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1710010121029	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://c03.s3.indeed.com/m/s/a32dbb846b5df0520b1d/scripts/9129.js, line 1: ApolloError: NetworkError when attempting to fetch resource.
+1710011756930	geckodriver	INFO	Listening on 127.0.0.1:36547
+1710011757145	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileevLXDz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710011758280	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1710011758486	Marionette	INFO	Listening on port 39455
+Read port: 39455
+1710011758697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1710011788291	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710012277079	Marionette	INFO	Stopped listening on port 39455
+JavaScript warning: https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js, line 1: Script terminated by timeout at:
+e@https://c03.s3.indeed.com/frontend-sentry-bundle/v1.1.2/js/sentry.js:1:45448
+
+1710017740021	Marionette	INFO	Stopped listening on port 36485
